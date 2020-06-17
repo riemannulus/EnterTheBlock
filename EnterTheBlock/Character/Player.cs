@@ -9,7 +9,7 @@ namespace EnterTheBlock
         private int _currentSheld = 1;
         private int _currentDamage = 4;
 
-        private Player()
+        public Player()
         {
         }
 
